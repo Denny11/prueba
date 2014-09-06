@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Prueba</name>
+
+<description>
+Santo Niño Merenguero que por favor sirva esto que estoy haciendo xD
+</description>
+
+<icon src="icono.png" gap:platform="android" gap:density="ldpi" />
+
+<gap:splash src="splash.png" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="mdpi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="hdpi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="xldpi" />
+
+<author href="https://www.facebook.com/dny.gdl" email="dny_gdl@live.com">
+Dny Jesús
+</author>
+
+</widget>
